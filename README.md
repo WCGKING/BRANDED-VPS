@@ -16,10 +16,10 @@
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WCGKING&show_icons=true&locale=en&layout=compact" alt="WCGKING" /></p>
 
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Officialhekarop&repo=kaali-Linux&theme=flag-india)
-[![GIF](https://github.com/Officialhekarop/kaali-Linux/blob/main/Officialhekarop.gif)](https://github.com/Officialhekarop)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Officialhekarop&repo=BRANDED-VPS&theme=flag-india)
+[![GIF](https://github.com/Officialhekarop/BRANDED-VPS/blob/main/Officialhekarop.gif)](https://github.com/Officialhekarop)
 
-<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Officialhekarop&show_icons=true&locale=en&layout=compact" alt="Officialhekarop" /></p>
+
 
 [![𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗞𝗜𝗡𝗚](https://github-stats-alpha.vercel.app/api?username=Officialhekarop "BRANDED KING")](https://github-stats-alpha.vercel.app/api?username=Officialhekarop "BRANDED KING")
 
