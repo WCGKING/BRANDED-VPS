@@ -11,5 +11,5 @@
 
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WCGKING&show_icons=true&locale=en&layout=compact" alt="WCGKING" /></p>
 
-[![𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗞𝗜𝗡𝗚](https://github-stats-alpha.vercel.app/api?username=WCGKING "BRANDED KING")](https://github-stats-alpha.vercel.app/api?username=WCGKING "BRANDED KING")
+[![𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗞𝗜𝗡𝗚](https://github-stats-alpha.vercel.app/api?username=Officialhekarop "BRANDED KING")](https://github-stats-alpha.vercel.app/api?username=Officialhekarop "BRANDED KING")
 
