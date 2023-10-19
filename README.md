@@ -2,8 +2,8 @@
 
 <p align="center"><a href="https://t.me/BRANDED_WORLD"><img src="https://te.legra.ph/file/174dd16205416d0934b8d.jpg"></a></p>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Officialhekarop&repo=WCGKING-BRANDED KING&theme=flag-india)
-[![GIF](https://github.com/DAXXTEAM/kaali-Linux/blob/main/DAXXTEAM.gif)](https://github.com/DAXXTEAM)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Officialhekarop&repo=BRANDED-VPS&theme=flag-india)
+[![GIF](https://github.com/Officialhekarop/BRANDED-KING/blob/main/Officialhekarop.gif)](https://github.com/Officialhekarop)
 
 
 🍁 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐒𝐞𝐫𝐯𝐞𝐫 📡
